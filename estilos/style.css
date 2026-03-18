@@ -6,9 +6,13 @@ body{
     background-color: rgb(163, 135, 189);
 }
 
+img.lado {
+    float: right;
+}
+
 main {
     background-color: blanchedalmond;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.39);
